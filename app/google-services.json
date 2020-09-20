@@ -1,0 +1,43 @@
+{
+  "project_info": {
+    "project_number": "52481351174",
+    "firebase_url": "https://dttd-4d1cb.firebaseio.com",
+    "project_id": "dttd-4d1cb",
+    "storage_bucket": "dttd-4d1cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52481351174:android:154e5b17c3b474af",
+        "android_client_info": {
+          "package_name": "com.enginit.laptop.dttd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52481351174-3r4auvp2a7rabbekpe5rr8hlapopvvrl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJyUL7ZDY43lruCEb7NUI-KSC17koO-mE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-4536704022247728~3494630602"
+    }
+  ],
+  "configuration_version": "1"
+}
